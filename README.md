@@ -10,11 +10,8 @@
 * 開發環境：
  * IDE: VB6
  * OS: Windows XP - in VMware9
-* 其中核心程式碼有一個
+* 其中核心程式碼有二個
  * Console.bas --- 導入Console 相關WIN32 SDK
  * console.cls --- 物件化包裝成 clsConsole.cls 類別以操作Console。
  * Console.frm --- 應用demo，非核心 
  
-VB Console Application...
-LinearConnections 2002
-We are NOT responsible for any damage...
